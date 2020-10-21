@@ -60,7 +60,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-sigma-gold.vercel.app/api?username=hesspearl&show_icons=true&hide_border=true" />
+  <img align="left" alt="Hesspeal's GitHub Stats" src="https://github-readme-stats-sigma-gold.vercel.app/api?username=hesspearl&show_icons=true&hide_border=true" />
 
 </details>
 
