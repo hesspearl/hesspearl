@@ -44,6 +44,12 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/hesspearl/FollowUp/pull/4) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
+2. 💪 Opened PR [#4](https://github.com/hesspearl/FollowUp/pull/4) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
+3. 🎉 Merged PR [#3](https://github.com/hesspearl/FollowUp/pull/3) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
+4. 🎉 Merged PR [#2](https://github.com/hesspearl/FollowUp/pull/2) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
+5. 💪 Opened PR [#3](https://github.com/hesspearl/FollowUp/pull/3) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
+<!--END_SECTION:activity-->
 
 
 
