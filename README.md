@@ -41,7 +41,7 @@
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>🗃 Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/hesspearl/FollowUp/pull/4) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>📊  GitHub Stats</summary>
 
   <img align="left" alt="Hesspeal's GitHub Stats" src="https://github-readme-stats-sigma-gold.vercel.app/api?username=hesspearl&show_icons=true&hide_border=true" />
 
