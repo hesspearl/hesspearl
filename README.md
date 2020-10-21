@@ -1,4 +1,4 @@
-### Hi I'm Hessa , nice to meet you  😊 
+## Hi I'm Hessa , nice to meet you  😊 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HesSoftDev?color=1DA1F2&logo=twitter&style=plastic)]( https://twitter.com/HesSoftDev)
 [ ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhessa-ajaj-dev%2F)](
@@ -40,8 +40,8 @@
 
 
 
-<details>
-  <summary>🗃 Recent GitHub Activity</summary>
+
+### 🗃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/hesspearl/FollowUp/pull/4) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
@@ -52,15 +52,15 @@
 <!--END_SECTION:activity-->
 
 
+<br />
 
-</details>
 
-<details>
-  <summary>📊  GitHub Stats</summary>
+
+### 📊  GitHub Stats
 
   <img align="left" alt="Hesspeal's GitHub Stats" src="https://github-readme-stats-sigma-gold.vercel.app/api?username=hesspearl&show_icons=true&hide_border=true" />
 
-</details>
+<br />
 
 
 [twitter]: https://twitter.com/HesSoftDev
