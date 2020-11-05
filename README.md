@@ -49,11 +49,11 @@
 ### 🗃 Recent GitHub Activity
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/hesspearl/FollowUp/pull/4) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
-2. 💪 Opened PR [#4](https://github.com/hesspearl/FollowUp/pull/4) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
-3. 🎉 Merged PR [#3](https://github.com/hesspearl/FollowUp/pull/3) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
-4. 🎉 Merged PR [#2](https://github.com/hesspearl/FollowUp/pull/2) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
-5. 💪 Opened PR [#3](https://github.com/hesspearl/FollowUp/pull/3) in [hesspearl/FollowUp](https://github.com/hesspearl/FollowUp)
+1. 🎉 Merged PR [#1](https://github.com/hesspearl/report_app/pull/1) in [hesspearl/report_app](https://github.com/hesspearl/report_app)
+2. 🎉 Merged PR [#2](https://github.com/hesspearl/report_app/pull/2) in [hesspearl/report_app](https://github.com/hesspearl/report_app)
+3. 🎉 Merged PR [#3](https://github.com/hesspearl/report_app/pull/3) in [hesspearl/report_app](https://github.com/hesspearl/report_app)
+4. 🎉 Merged PR [#4](https://github.com/hesspearl/report_app/pull/4) in [hesspearl/report_app](https://github.com/hesspearl/report_app)
+5. 🎉 Merged PR [#5](https://github.com/hesspearl/report_app/pull/5) in [hesspearl/report_app](https://github.com/hesspearl/report_app)
 <!--END_SECTION:activity-->
 
 
