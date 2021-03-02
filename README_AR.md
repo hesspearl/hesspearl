@@ -5,7 +5,7 @@
 [ ![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=linkedin&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhessa-ajaj-dev%2F)](
  http://www.linkedin.com/in/hessa-ajaj-dev)
 
-## انا مطورة برامج في درب سنتي الاولى..
+## انا مطورة برامج،في درب التقدم..
 
 -   هي لغة برمجتي الاولى javascript
 -  react.js و react native ابرمج باستخدام
