@@ -9,7 +9,7 @@
  http://www.linkedin.com/in/hessa-ajaj-dev)
  ![Update README](https://github.com/hesspearl/hesspearl/workflows/Update%20README/badge.svg)
 
-## I'm a software developer in my first year road..
+## I'm a software developer in my advancing road..
 
 - javascript is my top programming language. 
 - I code in react.js and react native.
