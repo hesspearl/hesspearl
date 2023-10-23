@@ -14,7 +14,7 @@
 - javascript is my top programming language. 
 - I code in react.js and react native.
 - I’m looking to collaborate with other content creators
-- 2021-First quarter Goals🏌🏻‍♀️ : full-stack
+<!--- - 2024-First quarter Goals🏌🏻‍♀️ : part-time job -->
 - Fun fact: I love purple 🙆🏻‍♀️
 
 
